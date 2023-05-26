@@ -4,7 +4,7 @@
 
 <h3>About me</h3>
 <ul>
-  <li>Currently I'm learning Ada.</li>
+  <li>Currently I'm working on my C++ proficiency.</li>
   <li>Developed <a href="https://github.com/lwhite14/StaticMist">Static Mist</a> for my final year project, a PS1-esque horror game.</li>
   <li>I have used Unity and OpenGL for a variety of games related projects.</li>
 </ul>
@@ -14,6 +14,8 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="60" height="60"/>
 <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/o/41/opengl.svg" alt="csharp" width="60" height="60"/>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="csharp" width="60" height="60"/>
+<a href="https://www.oracle.com/uk/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/oracle-logo.svg" alt="oracle" width="60" height="60"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="60" height="60"/>
   
 <h3>Statistics</h3>
 <div>

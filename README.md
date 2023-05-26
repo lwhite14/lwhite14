@@ -4,7 +4,7 @@
 
 <h3>About me</h3>
 <ul>
-  <li>Currently I'm working on my C++ proficiency.</li>
+  <li>Currently I'm working on my C++ and Delphi proficiency.</li>
   <li>Developed <a href="https://github.com/lwhite14/StaticMist">Static Mist</a> for my final year project, a PS1-esque horror game.</li>
   <li>I have used Unity and OpenGL for a variety of games related projects.</li>
 </ul>

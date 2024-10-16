@@ -1,23 +1,26 @@
-<h2>Hi there 👋, I'm Luke!</h2>
-<p>I'm a Graduate Software Engineer who studied Computing and Games Development at the University of Plymouth.</p>
- 
+<div align="center">
+  <h2>Hi there 👋, I'm Luke!</h2>
+  <p>I'm a Dorset based software engineer, I like writing some code every now and again.</p>
 
-<h3>About me</h3>
-<ul>
-  <li>Currently I'm working on my C++ and Delphi proficiency.</li>
-  <li>Developed <a href="https://github.com/lwhite14/StaticMist">Static Mist</a> for my final year project, a PS1-esque horror game.</li>
-  <li>I have used Unity and OpenGL for a variety of games related projects.</li>
-</ul>
+  <h3>Languages and Tools</h3>
 
-<h3>Languages and Tools</h3>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unit" width="60" height="60"/>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="60" height="60"/>
-<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/o/41/opengl.svg" alt="csharp" width="60" height="60"/>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="csharp" width="60" height="60"/>
-<a href="https://www.oracle.com/uk/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/oracle-logo.svg" alt="oracle" width="60" height="60"/>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="60" height="60"/>
-  
-<h3>Statistics</h3>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=lwhite14&theme=prussian&show_icons=true" alt="unity"/>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl&logoColor=5586A4)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)&nbsp;\
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)&nbsp;
+![Delphi](https://img.shields.io/badge/Delphi-FFFFFF?style=flat&logo=delphi&logoColor=F32735)&nbsp;
+![Zig](https://img.shields.io/badge/Zig-FFFFFF?style=flat&logo=zig&logoColor=F7A41D)&nbsp;
+![CS](https://img.shields.io/badge/CS-FFFFFF?style=flat&logo=counterstrike&logoColor=black)&nbsp;
+
+  <p align="center">
+    <a href="https://github.com/lwhite14">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lwhite14&show_icons=true&include_all_commits=false&count_private=true&theme=transparent"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwhite14&layout=compact&langs_count=8&theme=transparent"/>
+    </a>
+  </p>
+
 </div>
